@@ -7,4 +7,7 @@ public class SetupDynaDnsCli implements Runnable{
     int pingInterval=5;
     @Option(names={"-u","--restUri"})
     String RestUri="";
+    public void run(){
+        
+    }
 }
