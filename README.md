@@ -1,0 +1,2 @@
+# dynamicDnsClient
+#public licence
