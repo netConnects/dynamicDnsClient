@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.netconnects.in</groupId>
-  <artifactId>dynamicDnsClient</artifactId>
+  <artifactId>netConnectsInClient</artifactId>
   <version>19.04.0-SNAPSHOT</version>
 
   <name>dynamicDnsClient</name>

@@ -1,4 +1,4 @@
-package dynamicDnsClient;
+package in.netconnects.com;
 
 import picocli.CommandLine.Option;
 
