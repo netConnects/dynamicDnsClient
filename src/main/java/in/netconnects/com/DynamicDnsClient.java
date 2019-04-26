@@ -1,13 +1,9 @@
-package dynamicDnsClient;
+package in.netconnects.com;
 
-/**
- * Hello world!
- *
- */
 public class DynamicDnsClient 
 {
     public static void main( String[] args )
     {
-       Command
+       
     }
 }
